@@ -1,0 +1,20 @@
+h2 {
+    color: blueviolet;
+    background-color :yellowgreen;
+    width: 200px;
+    height: 200px;
+
+}
+
+.fruit {
+    color: blueviolet;
+
+
+}
+.veg {
+    color: slateblue;
+}
+
+#one {
+    color: purple;
+}
